@@ -1,0 +1,65 @@
+
+Nombre de host:                            LAPTOP-N6HV94NS
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+Versi¢n del sistema operativo:             10.0.19042 N/D Compilaci¢n 19042
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              mlevicoy
+Organizaci¢n registrada:                   N/D
+Id. del producto:                          00342-41433-96901-AAOEM
+Fecha de instalaci¢n original:             24-06-2021, 9:36:57
+Tiempo de arranque del sistema:            24-06-2021, 17:54:23
+Fabricante del sistema:                    LENOVO
+Modelo el sistema:                         81Y4
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 165 Stepping 2 GenuineIntel ~2496 Mhz
+Versi¢n del BIOS:                          LENOVO EGCN33WW, 24-12-2020
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es-mx;Espa¤ol (M‚xico)
+Zona horaria:                              (UTC-04:00) Santiago
+Cantidad total de memoria f¡sica:          16.252 MB
+Memoria f¡sica disponible:                 8.768 MB
+Memoria virtual: tama¤o m ximo:            19.196 MB
+Memoria virtual: disponible:               8.803 MB
+Memoria virtual: en uso:                   10.393 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\LAPTOP-N6HV94NS
+Revisi¢n(es):                              10 revisi¢n(es) instaladas.
+                                           [01]: KB5003537
+                                           [02]: KB4534170
+                                           [03]: KB4537759
+                                           [04]: KB4545706
+                                           [05]: KB4562830
+                                           [06]: KB4577586
+                                           [07]: KB4580325
+                                           [08]: KB4586864
+                                           [09]: KB5003690
+                                           [10]: KB5003742
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Intel(R) Wireless-AC 9560
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.100.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.100.11
+                                                 [02]: fe80::50c4:a85f:74f6:672
+                                                 [03]: 2800:300:62f1:7fd0::2
+                                           [02]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi¢n: Conexi¢n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [04]: TAP-Windows Adapter V9
+                                                 Nombre de conexi¢n: Conexi¢n de  rea local
+                                                 Estado:             Medios desconectados
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
