@@ -11,5 +11,4 @@
     <li>Sistema Operativo.</li>
   </u>
 </p>
-<p>Para ver el contenido completo del curso pulsar en siguiente enlace <a target="_blank" href="
-https://github.com/mlevicoy/hacking-Python/blob/main/Resumen.pdf">Resumen.pdf</a>.</p>
+<p>Para ver el contenido completo del curso pulsar en siguiente enlace <a target="_blank" href="https://github.com/mlevicoy/hacking-Python/blob/main/Resumen.pdf">Resumen.pdf</a>.</p>
